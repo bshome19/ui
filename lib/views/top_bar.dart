@@ -14,6 +14,7 @@ class TopBar extends StatelessWidget {
             OutlinedButton(
               onPressed: () {},
               child: const Text('#Trending',
+                textScaleFactor: 0.7,
                 style: TextStyle(
                   color: Colors.white,
                 ),),
@@ -30,6 +31,7 @@ class TopBar extends StatelessWidget {
             OutlinedButton(
               onPressed: () {},
               child: const Text('#Food',
+                textScaleFactor: 0.7,
                 style: TextStyle(
                   color: Colors.black,
                 ),),
@@ -46,6 +48,7 @@ class TopBar extends StatelessWidget {
             OutlinedButton(
               onPressed: () {},
               child: const Text('#Activity',
+                textScaleFactor: 0.7,
                 style: TextStyle(
                   color: Colors.black,
                 ),),
@@ -62,6 +65,7 @@ class TopBar extends StatelessWidget {
             OutlinedButton(
               onPressed: () {},
               child: const Text('#Shopping',
+                textScaleFactor: 0.7,
                 style: TextStyle(
                   color: Colors.black,
                 ),),
