@@ -193,7 +193,7 @@ class Home extends StatelessWidget {
             showSelectedLabels: false,
             //showUnselectedLabels: false,
             //enableFeedback: false,
-            backgroundColor: const Color(0xFF12062F),
+            backgroundColor: const Color(0xFF120532),
             items: const <BottomNavigationBarItem>[
               BottomNavigationBarItem(
                 backgroundColor: Color(0xFF12062F),
